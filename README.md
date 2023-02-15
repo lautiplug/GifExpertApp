@@ -1,4 +1,7 @@
 # GifExpertApp
+
+* Para abrir el proyecto deberá abrir la consola de su editor de código y colocar el comando ( npm run dev ) y tocar sobre la url que le aparecerá *
+
 [Versión Beta] Aplicación de búsqueda de gifs utilizando React
 
 Este proyecto tiene como objetivo buscar gifs consumiendo una API de giphy, y corresponde a un proyecto del curso de React de https://cursos.devtalles.com/courses/react-cero-experto?coupon=FEB-23_
