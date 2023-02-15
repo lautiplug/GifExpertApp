@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo buscar gifs consumiendo una API de giphy, y co
 
 ## Construido con 🛠️
 
-_Este proyecto está siendo construido con React v18, JavaScript y CSS
+__Este proyecto está siendo construido con React v18, JavaScript y CSS
 
 * [HTML](https://html.com/)
 * [CSS](https://getbootstrap.com/)
